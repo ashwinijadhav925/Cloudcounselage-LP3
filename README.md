@@ -1,7 +1,5 @@
 # Cloudcounselage-LP3 Assignment
 
-Learning Path 3 Assignment of Internship at CloudCounselage
-
 
 For running the project :
 
