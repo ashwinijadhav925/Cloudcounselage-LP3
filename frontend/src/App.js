@@ -39,7 +39,8 @@ class HomePage extends Component {
         <p className="date">{this.state.date1}</p> 
         <p className="time">{this.state.time1}</p>  
         <p className="text">Date and Time</p> 
-    </div> );
+    </div> 
+        );
     }
 }
 
